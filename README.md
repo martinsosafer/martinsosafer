@@ -10,6 +10,8 @@ Español (English description below)
 ✉️ Puedes contactarme a martinfernandez1902@gmail.com 
 🧠 Estoy aprendiendo Nuevos lenguajes y profundizando los que ya tengo. 
 ⚡ Cuando no estoy programando seguramente estoy entrenando o paseando a mis perros ! 🐕 ///////////////////////////////////////////////////////////////////////////////////////////////////// 
+
+
 English 
 🌟I am a Full Stack Developer 👩‍💻, I found my passion in programming and day by day I continue to perfect myself in new technologies and technologies. 🌟I am a persevering, responsible, organized, detailed, curious, proactive person, I like to work in a team or alone, I easily adapt to changes and I like challenges. 🧡🚀
 
