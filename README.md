@@ -17,7 +17,7 @@ English
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [martinfernandez1902@gmail.com](mailto:martinfernandez1902@gmail.com)
-* 🧠  I'm learning react native
+* 🧠  I'm currently learning java 
 
 ### Skills
 
